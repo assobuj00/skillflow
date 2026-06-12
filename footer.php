@@ -15,19 +15,19 @@
                 </p>
                 <div class="flex items-center gap-3">
                     <a href="#"
-                        class="w-9 h-9 bg-white text-black rounded-full flex items-center justify-center text-sm hover:bg-[#e91e63] hover:text-white transition duration-300">
+                        class="w-9 h-9 bg-white text-black rounded-full flex items-center justify-center text-sm hover:bg-[#1e90ff] hover:text-white transition duration-300">
                         <i class="fa-brands fa-facebook-f"></i>
                     </a>
                     <a href="#"
-                        class="w-9 h-9 bg-white text-black rounded-full flex items-center justify-center text-sm hover:bg-[#e91e63] hover:text-white transition duration-300">
+                        class="w-9 h-9 bg-white text-black rounded-full flex items-center justify-center text-sm hover:bg-[#1e90ff] hover:text-white transition duration-300">
                         <i class="fa-brands fa-youtube"></i>
                     </a>
                     <a href="#"
-                        class="w-9 h-9 bg-white text-black rounded-full flex items-center justify-center text-sm hover:bg-[#e91e63] hover:text-white transition duration-300">
+                        class="w-9 h-9 bg-white text-black rounded-full flex items-center justify-center text-sm hover:bg-[#1e90ff] hover:text-white transition duration-300">
                         <i class="fa-brands fa-linkedin-in"></i>
                     </a>
                     <a href="#"
-                        class="w-9 h-9 bg-white text-black rounded-full flex items-center justify-center text-sm hover:bg-[#e91e63] hover:text-white transition duration-300">
+                        class="w-9 h-9 bg-white text-black rounded-full flex items-center justify-center text-sm hover:bg-[#1e90ff] hover:text-white transition duration-300">
                         <i class="fa-brands fa-instagram"></i>
                     </a>
                 </div>
@@ -39,12 +39,12 @@
                 </h3>
                 <div class="space-y-4 text-sm font-medium">
                     <div>
-                        <h4 class="text-white font-semibold text-xs uppercase tracking-wider text-[#e91e63]">Office:
+                        <h4 class="text-white font-semibold text-xs uppercase tracking-wider text-[#1e90ff]">Office:
                         </h4>
                         <p class="text-gray-400 mt-1">Jamalpur, Mymensingh</p>
                     </div>
                     <!-- <div>
-                        <h4 class="text-white font-semibold text-xs uppercase tracking-wider text-[#e91e63]">Uttara
+                        <h4 class="text-white font-semibold text-xs uppercase tracking-wider text-[#1e90ff]">Uttara
                             Branch:</h4>
                         <p class="text-gray-400 mt-1">House - 88 (Level-3)<br>Lake Drive Road, Sector-7, Uttara, Dhaka
                         </p>
@@ -58,22 +58,22 @@
                 </h3>
                 <ul class="space-y-2.5 text-sm font-medium">
                     <li>
-                        <a href="#" class="hover:text-[#e91e63] transition duration-200 flex items-center gap-1.5">
+                        <a href="#" class="hover:text-[#1e90ff] transition duration-200 flex items-center gap-1.5">
                             <i class="fa-solid fa-angle-right text-xs opacity-50"></i> ডিজিটাল স্কিল with এআই
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="hover:text-[#e91e63] transition duration-200 flex items-center gap-1.5">
+                        <a href="#" class="hover:text-[#1e90ff] transition duration-200 flex items-center gap-1.5">
                             <i class="fa-solid fa-angle-right text-xs opacity-50"></i> ডিজিটাল মার্কেটিং
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="hover:text-[#e91e63] transition duration-200 flex items-center gap-1.5">
+                        <a href="#" class="hover:text-[#1e90ff] transition duration-200 flex items-center gap-1.5">
                             <i class="fa-solid fa-angle-right text-xs opacity-50"></i> গ্রাফিক ডিজাইন
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="hover:text-[#e91e63] transition duration-200 flex items-center gap-1.5">
+                        <a href="#" class="hover:text-[#1e90ff] transition duration-200 flex items-center gap-1.5">
                             <i class="fa-solid fa-angle-right text-xs opacity-50"></i> স্পোকেন ইংলিশ
                         </a>
                     </li>
@@ -87,26 +87,26 @@
                 <ul class="space-y-2.5 text-sm font-medium">
                     <li>
                         <a href="#"
-                            class="hover:text-[#e91e63] transition duration-200 flex items-center gap-1.5 text-gray-400">
-                            <i class="fa-solid fa-angle-right text-xs opacity-50 text-[#e91e63]"></i> আমাদের সম্পর্কে
+                            class="hover:text-[#1e90ff] transition duration-200 flex items-center gap-1.5 text-gray-400">
+                            <i class="fa-solid fa-angle-right text-xs opacity-50 text-[#1e90ff]"></i> আমাদের সম্পর্কে
                         </a>
                     </li>
                     <li>
                         <a href="#"
-                            class="hover:text-[#e91e63] transition duration-200 flex items-center gap-1.5 text-gray-400">
-                            <i class="fa-solid fa-angle-right text-xs opacity-50 text-[#e91e63]"></i> মিশন ও ভিশন
+                            class="hover:text-[#1e90ff] transition duration-200 flex items-center gap-1.5 text-gray-400">
+                            <i class="fa-solid fa-angle-right text-xs opacity-50 text-[#1e90ff]"></i> মিশন ও ভিশন
                         </a>
                     </li>
                     <li>
                         <a href="#"
-                            class="hover:text-[#e91e63] transition duration-200 flex items-center gap-1.5 text-gray-400">
-                            <i class="fa-solid fa-angle-right text-xs opacity-50 text-[#e91e63]"></i> আমাদের সুবিধাসমূহ
+                            class="hover:text-[#1e90ff] transition duration-200 flex items-center gap-1.5 text-gray-400">
+                            <i class="fa-solid fa-angle-right text-xs opacity-50 text-[#1e90ff]"></i> আমাদের সুবিধাসমূহ
                         </a>
                     </li>
                     <li>
                         <a href="#"
-                            class="hover:text-[#e91e63] transition duration-200 flex items-center gap-1.5 text-gray-400">
-                            <i class="fa-solid fa-angle-right text-xs opacity-50 text-[#e91e63]"></i> ক্যারিয়ার প্ল্যান
+                            class="hover:text-[#1e90ff] transition duration-200 flex items-center gap-1.5 text-gray-400">
+                            <i class="fa-solid fa-angle-right text-xs opacity-50 text-[#1e90ff]"></i> ক্যারিয়ার প্ল্যান
                         </a>
                     </li>
                 </ul>

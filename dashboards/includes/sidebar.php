@@ -25,6 +25,9 @@ require_once __DIR__ . '/../../includes/security.php';
             <a href="admin-courses.php" class="<?php echo ($page == 'admin-courses.php') ? 'bg-[#e91e63] text-white' : 'text-slate-400 hover:bg-slate-800'; ?> flex items-center gap-3 px-4 py-2.5 rounded-xl text-slate-400 hover:bg-slate-800 hover:text-white font-bold text-[15px] transition-all">
                 <i class="fa-solid fa-layer-group text-base"></i> কোর্সসমূহ
             </a>
+            <a href="mentors.php" class="<?php echo ($page == 'mentors.php') ? 'bg-[#e91e63] text-white' : 'text-slate-400 hover:bg-slate-800'; ?> flex items-center gap-3 px-4 py-2.5 rounded-xl text-slate-400 hover:bg-slate-800 hover:text-white font-bold text-[15px] transition-all">
+                <i class="fa-solid fa-user-group text-base"></i> মেন্টরস
+            </a>
             <a href="admin-dashboard.php" class="flex items-center gap-3 px-4 py-2.5 rounded-xl text-slate-400 hover:bg-slate-800 hover:text-white font-bold text-[15px] transition-all">
                 <i class="fa-solid fa-money-bill-transfer text-base"></i> পেমেন্ট রিকোয়েস্টসমূহ
             </a>

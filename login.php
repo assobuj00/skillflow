@@ -96,7 +96,7 @@ $old_mobile = $_SESSION['old_mobile'] ?? '';
             </div>
 
             <div class="flex items-center justify-between pt-2">
-                <button type="submit" class="w-[110px] h-[36px] border border-[#e91e63] text-[#e91e63] font-bold rounded-full text-sm hover:bg-[#e91e63] hover:text-white transition-all duration-300 shadow-sm cursor-pointer">
+                <button type="submit" class="w-[110px] h-[36px] border border-[#1e90ff] text-[#1e90ff] font-bold rounded-full text-sm hover:bg-[#1e90ff] hover:text-white transition-all duration-300 shadow-sm cursor-pointer">
                     লগইন
                 </button>
                 <a href="#" class="text-[#0d47a1] font-bold text-sm md:text-[15px] hover:underline transition-all">
@@ -114,7 +114,7 @@ $old_mobile = $_SESSION['old_mobile'] ?? '';
                 <span class="text-[#0d47a1] font-bold text-sm md:text-[15px]">
                     একটিও অ্যাকাউন্ট নেই?
                 </span>
-                <a href="register.php" class="w-[110px] h-[36px] flex items-center justify-center border border-[#e91e63] text-[#e91e63] font-bold rounded-full text-sm hover:bg-[#e91e63] hover:text-white transition-all duration-300 shadow-sm">
+                <a href="register.php" class="w-[110px] h-[36px] flex items-center justify-center border border-[#1e90ff] text-[#1e90ff] font-bold rounded-full text-sm hover:bg-[#1e90ff] hover:text-white transition-all duration-300 shadow-sm">
                     রেজিস্টার
                 </a>
             </div>
@@ -134,7 +134,7 @@ $old_mobile = $_SESSION['old_mobile'] ?? '';
             icon: 'success',
             title: 'স্বাগতম!',
             html: '<?php echo $_SESSION["reg_success_msg"]; ?>',
-            confirmButtonColor: '#e91e63',
+            confirmButtonColor: '#1e90ff',
             confirmButtonText: 'OK',
             customClass: {
                 title: 'font-bold',
@@ -149,7 +149,7 @@ $old_mobile = $_SESSION['old_mobile'] ?? '';
             icon: 'success',
             title: 'স্বাগতম!',
             html: '<?php echo $_SESSION["success_msg"]; ?>',
-            confirmButtonColor: '#e91e63',
+            confirmButtonColor: '#1e90ff',
             confirmButtonText: 'OK'
         });
         <?php unset($_SESSION['success_msg']); ?>

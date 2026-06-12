@@ -31,9 +31,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $stmt->execute([$title, $price, $img, $moduleImg, $code, $id]);
         $_SESSION['success_msg'] = "কোর্সটি আপডেট হয়েছে!";
     } else {
-        $stmt = $pdo->prepare("INSERT INTO courses (title, price, thumbnail, module, course_code) VALUES (?, ?, ?, ?)");
+        $stmt = $pdo->prepare("INSERT INTO courses (title, price, thumbnail, module, course_code) VALUES (?, ?, ?, ?, ?)");
         $stmt->execute([$title, $price, $img, $moduleImg, $code]);
-        $_SESSION['success_msg'] = "নতুন কোর্স যোগ হয়েছে!";
+        $_SESSION['success_msg'] = "নতুন কোর্স যোগ হয়েছে!";
     }
     header("Location: admin-courses.php");
 }

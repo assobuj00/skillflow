@@ -57,7 +57,7 @@ if (!$course) { die("কোর্সটি পাওয়া যায়নি!"); }
                     </div>
 
                     <a href="purchase.php?id=<?php echo $course['id']; ?>" 
-                       class="block text-center w-full bg-slate-900 text-white py-4 rounded-xl font-black text-lg transition-all duration-300 hover:bg-rose-600 hover:scale-[1.02]">
+                       class="block text-center w-full bg-slate-900 text-white py-4 rounded-xl font-black text-lg transition-all duration-300 hover:bg-blue-600 hover:scale-[1.02]">
                        ব্যাচে ভর্তি হন
                     </a>
                 </div>

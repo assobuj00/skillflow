@@ -3,15 +3,15 @@
 <header
     class="w-full fixed top-0 z-50 bg-white border-b border-gray-100 shadow-[0_5px_30px_rgba(0,0,0,0.16)] select-none">
 
-    <div class="bg-[#00D100] text-white h-[50px] px-12 md:px-20">
+    <div class="bg-[#1e90ff] text-white h-[50px] px-12 md:px-20">
         <div class="max-w-6xl mx-auto h-full flex justify-between items-center">
 
             <div class="flex items-center gap-7 text-[15px] font-normal tracking-wide"
                 style="font-family: 'Inter', 'Hind Siliguri', sans-serif;">
-                <a href="tel:01958536790" class="flex items-center gap-2 hover:opacity-90 transition-opacity">
+                <a href="tel:01814472089" class="flex items-center gap-2 hover:opacity-90 transition-opacity">
                     <i class="fa-solid fa-phone text-sm opacity-90"></i> 01814-472089
                 </a>
-                <a href="mailto:info.youracademy@gmail.com"
+                <a href="mailto:info.info.skillflowit@gmail.com"
                     class="flex items-center gap-2 hover:opacity-90 transition-opacity">
                     <i class="fa-solid fa-envelope text-sm opacity-90"></i> info.skillflowit@gmail.com
                 </a>
@@ -37,8 +37,8 @@
                     </a>
                 </div>
 
-                <a href="login.php"
-                    class="bg-white text-[#e91e63] px-4 py-2.5 rounded-[4px] font-bold hover:bg-gray-50 transition text-[13px] shadow-sm tracking-wide">
+                <a href="/skillflow/login.php"
+                    class="bg-white text-[#1e90ff] px-4 py-2.5 rounded-[4px] font-bold hover:bg-gray-50 transition text-[13px] shadow-sm tracking-wide">
                     লগইন / রেজিস্টার
                 </a>
             </div>
@@ -60,17 +60,17 @@
 
             <div class="hidden sm:block flex-1 max-w-md relative">
                 <input type="text" placeholder="আপনি কি শিখতে চান?"
-                    class="w-full h-[38px] border border-gray-300 rounded-[4px] pl-4 pr-10 text-[14px] bg-white text-gray-800 placeholder-gray-500 font-medium focus:outline-none focus:border-[#e91e63] transition-colors">
-                <button class="absolute right-3.5 top-1/2 -translate-y-1/2 text-gray-400 hover:text-[#e91e63] text-sm">
+                    class="w-full h-[38px] border border-gray-300 rounded-[4px] pl-4 pr-10 text-[14px] bg-white text-gray-800 placeholder-gray-500 font-medium focus:outline-none focus:border-[#1e90ff] transition-colors">
+                <button class="absolute right-3.5 top-1/2 -translate-y-1/2 text-gray-400 hover:text-[#1e90ff] text-sm">
                     <i class="fa-solid fa-magnifying-glass"></i>
                 </button>
             </div>
 
             <nav
                 class="hidden lg:flex items-center space-x-5 font-bold text-gray-800 text-[16px] tracking-wide whitespace-nowrap">
-                <a href="#" class="px-2 py-1 hover:text-[#e91e63] transition-colors duration-150">আমাদের সম্পর্কে</a>
-                <a href="#" class="px-2 py-1 hover:text-[#e91e63] transition-colors duration-150">সাফল্যের গল্প</a>
-                <a href="#" class="px-2 py-1 hover:text-[#e91e63] transition-colors duration-150">যোগাযোগ</a>
+                <a href="#" class="px-2 py-1 hover:text-[#1e90ff] transition-colors duration-150">আমাদের সম্পর্কে</a>
+                <a href="#" class="px-2 py-1 hover:text-[#1e90ff] transition-colors duration-150">সাফল্যের গল্প</a>
+                <a href="#" class="px-2 py-1 hover:text-[#1e90ff] transition-colors duration-150">যোগাযোগ</a>
             </nav>
 
             <button class="lg:hidden text-gray-700 text-xl focus:outline-none">

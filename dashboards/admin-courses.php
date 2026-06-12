@@ -10,7 +10,7 @@ $courses = $pdo->query("SELECT * FROM courses ORDER BY id DESC")->fetchAll(PDO::
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Course & Notice Management - SkillFlow IT</title>
+    <title>Course Management - SkillFlow IT</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">

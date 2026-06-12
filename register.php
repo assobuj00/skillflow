@@ -96,7 +96,7 @@
             </div>
 
             <div class="pt-2">
-                <button type="submit" class="w-[150px] h-[38px] border border-[#e91e63] text-[#e91e63] font-bold rounded-full text-sm hover:bg-[#e91e63] hover:text-white transition-all duration-300 shadow-sm cursor-pointer">
+                <button type="submit" class="w-[150px] h-[38px] border border-[#1e90ff] text-[#1e90ff] font-bold rounded-full text-sm hover:bg-[#1e90ff] hover:text-white transition-all duration-300 shadow-sm cursor-pointer">
                     রেজিস্ট্রেশন করুন
                 </button>
             </div>
@@ -111,7 +111,7 @@
                 <span class="text-[#0d47a1] font-bold text-sm md:text-[15px]">
                     অলরেডি অ্যাকাউন্ট আছে?
                 </span>
-                <a href="login.php" class="w-[110px] h-[36px] flex items-center justify-center border border-[#e91e63] text-[#e91e63] font-bold rounded-full text-sm hover:bg-[#e91e63] hover:text-white transition-all duration-300 shadow-sm">
+                <a href="login.php" class="w-[110px] h-[36px] flex items-center justify-center border border-[#1e90ff] text-[#1e90ff] font-bold rounded-full text-sm hover:bg-[#1e90ff] hover:text-white transition-all duration-300 shadow-sm">
                     লগইন করুন
                 </a>
             </div>
@@ -131,7 +131,7 @@
         icon: 'success',
         title: 'সফল হয়েছে!',
         text: '<?php echo $_SESSION['success_msg']; ?>',
-        confirmButtonColor: '#e91e63',
+        confirmButtonColor: '#1e90ff',
         timer: 4000,
         timerProgressBar: true
     });
